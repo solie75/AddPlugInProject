@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ManageUserNamePlugIn-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Unreal_Project\AddPlugInProject\AddPlugInProject\Intermediate\Build\Win64\x64\AddPlugInProjectEditor\DebugGame\UnrealEd\SharedPCH.UnrealEd.Project.NonOptimized.ValApi.Cpp20.h.obj"
+"C:\Unreal_Project\AddPlugInProject\AddPlugInProject\Plugins\ManageUserNamePlugIn\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\ManageUserNamePlugIn\ManageUserNamePlugIn.cpp.obj"
+"C:\Unreal_Project\AddPlugInProject\AddPlugInProject\Plugins\ManageUserNamePlugIn\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\ManageUserNamePlugIn\ManageUserNamePlugInBPLibrary.cpp.obj"
+"C:\Unreal_Project\AddPlugInProject\AddPlugInProject\Plugins\ManageUserNamePlugIn\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\ManageUserNamePlugIn\PerModuleInline.gen.cpp.obj"
+"C:\Unreal_Project\AddPlugInProject\AddPlugInProject\Plugins\ManageUserNamePlugIn\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\ManageUserNamePlugIn\ManageUserNamePlugIn.init.gen.cpp.obj"
+"C:\Unreal_Project\AddPlugInProject\AddPlugInProject\Plugins\ManageUserNamePlugIn\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\ManageUserNamePlugIn\ManageUserNamePlugInBPLibrary.gen.cpp.obj"
+"C:\Unreal_Project\AddPlugInProject\AddPlugInProject\Plugins\ManageUserNamePlugIn\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\ManageUserNamePlugIn\Default.rc2.res"
+/OUT:"C:\Unreal_Project\AddPlugInProject\AddPlugInProject\Plugins\ManageUserNamePlugIn\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\ManageUserNamePlugIn\UnrealEditor-ManageUserNamePlugIn-Win64-DebugGame.lib"

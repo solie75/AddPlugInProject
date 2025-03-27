@@ -1,0 +1,9 @@
+{
+	"SourceFiles": [
+		"C:\\Unreal_Project\\AddPlugInProject\\AddPlugInProject\\Source\\AddPlugInProject\\AddPlugInProject.Build.cs",
+		"C:\\Unreal_Project\\AddPlugInProject\\AddPlugInProject\\Plugins\\ManageUserNamePlugIn\\Source\\ManageUserNamePlugIn\\ManageUserNamePlugIn.Build.cs",
+		"C:\\Unreal_Project\\AddPlugInProject\\AddPlugInProject\\Source\\AddPlugInProject.Target.cs",
+		"C:\\Unreal_Project\\AddPlugInProject\\AddPlugInProject\\Source\\AddPlugInProjectEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}

@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unreal_project\\addpluginproject\\addpluginproject\\intermediate\\build\\win64\\unrealeditor\\inc\\addpluginproject\\uht\\cb_gameinstance.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unreal_project\\addpluginproject\\addpluginproject\\intermediate\\build\\win64\\x64\\addpluginprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\unreal_project\\addpluginproject\\addpluginproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\addpluginproject\\definitions.addpluginproject.h",
+            "c:\\unreal_project\\addpluginproject\\addpluginproject\\source\\addpluginproject\\cb_gameinstance.h",
+            "c:\\unreal_project\\addpluginproject\\addpluginproject\\intermediate\\build\\win64\\unrealeditor\\inc\\addpluginproject\\uht\\cb_gameinstance.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

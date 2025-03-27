@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unreal_project\\addpluginproject\\addpluginproject\\plugins\\manageusernameplugin\\source\\manageusernameplugin\\private\\manageusernameplugin.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unreal_project\\addpluginproject\\addpluginproject\\intermediate\\build\\win64\\x64\\addpluginprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\unreal_project\\addpluginproject\\addpluginproject\\plugins\\manageusernameplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\manageusernameplugin\\definitions.manageusernameplugin.h",
+            "c:\\unreal_project\\addpluginproject\\addpluginproject\\plugins\\manageusernameplugin\\source\\manageusernameplugin\\public\\manageusernameplugin.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unreal_project\\addpluginproject\\addpluginproject\\plugins\\manageusernameplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\manageusernameplugin\\uht\\manageusernamepluginbplibrary.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unreal_project\\addpluginproject\\addpluginproject\\intermediate\\build\\win64\\x64\\addpluginprojecteditor\\debuggame\\unrealed\\sharedpch.unrealed.project.nonoptimized.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\unreal_project\\addpluginproject\\addpluginproject\\plugins\\manageusernameplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\debuggame\\manageusernameplugin\\definitions.manageusernameplugin.h",
+            "c:\\unreal_project\\addpluginproject\\addpluginproject\\plugins\\manageusernameplugin\\source\\manageusernameplugin\\public\\manageusernamepluginbplibrary.h",
+            "c:\\unreal_project\\addpluginproject\\addpluginproject\\plugins\\manageusernameplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\manageusernameplugin\\uht\\manageusernamepluginbplibrary.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

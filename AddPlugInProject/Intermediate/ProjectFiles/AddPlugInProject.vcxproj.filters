@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\AddPlugInProject.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\AddPlugInProject.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\AddPlugInProjectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Plugins">
+      <UniqueIdentifier>{BB38096A-B391-30DC-A0D4-4F3EA6B44507}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\ManageUserNamePlugIn">
+      <UniqueIdentifier>{D0D561FA-86D7-3C2A-84C0-4A8C9CCABA7E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\ManageUserNamePlugIn\Source">
+      <UniqueIdentifier>{10E55D40-2B38-3DD9-881E-F0EACC58A43D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\ManageUserNamePlugIn\Source\ManageUserNamePlugIn">
+      <UniqueIdentifier>{C340046B-061C-3D7F-A491-C2F2C1D044D4}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\ManageUserNamePlugIn\Source\ManageUserNamePlugIn\ManageUserNamePlugIn.Build.cs">
+      <Filter>Plugins\ManageUserNamePlugIn\Source\ManageUserNamePlugIn</Filter>
+    </None>
+    <Filter Include="Plugins\ManageUserNamePlugIn\Source\ManageUserNamePlugIn\Private">
+      <UniqueIdentifier>{A1E09F2B-1453-3797-9884-F82A46344535}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\ManageUserNamePlugIn\Source\ManageUserNamePlugIn\Private\ManageUserNamePlugIn.cpp">
+      <Filter>Plugins\ManageUserNamePlugIn\Source\ManageUserNamePlugIn\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\ManageUserNamePlugIn\Source\ManageUserNamePlugIn\Private\ManageUserNamePlugInBPLibrary.cpp">
+      <Filter>Plugins\ManageUserNamePlugIn\Source\ManageUserNamePlugIn\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\ManageUserNamePlugIn\Source\ManageUserNamePlugIn\Public">
+      <UniqueIdentifier>{CA0F8CF1-47E0-3FCF-A215-763217A5D0BB}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\ManageUserNamePlugIn\Source\ManageUserNamePlugIn\Public\ManageUserNamePlugIn.h">
+      <Filter>Plugins\ManageUserNamePlugIn\Source\ManageUserNamePlugIn\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\ManageUserNamePlugIn\Source\ManageUserNamePlugIn\Public\ManageUserNamePlugInBPLibrary.h">
+      <Filter>Plugins\ManageUserNamePlugIn\Source\ManageUserNamePlugIn\Public</Filter>
+    </ClCompile>
+    <None Include="..\..\Plugins\ManageUserNamePlugIn\ManageUserNamePlugIn.uplugin">
+      <Filter>Plugins\ManageUserNamePlugIn</Filter>
+    </None>
+    <Filter Include="Plugins\ManageUserNamePlugIn\Config">
+      <UniqueIdentifier>{6B7AAE83-C70E-3A4B-9212-310FCE03ED73}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\ManageUserNamePlugIn\Config\FilterPlugin.ini">
+      <Filter>Plugins\ManageUserNamePlugIn\Config</Filter>
+    </None>
+    <Filter Include="Plugins\ManageUserNamePlugIn\Resources">
+      <UniqueIdentifier>{0A025348-EAB0-3EA3-81EE-19C2E6B2DF3A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\ManageUserNamePlugIn\Resources\Icon128.png">
+      <Filter>Plugins\ManageUserNamePlugIn\Resources</Filter>
+    </None>
+    <Filter Include="Source\AddPlugInProject">
+      <UniqueIdentifier>{7FBB9657-4768-32F7-89B3-320DD7438D28}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\AddPlugInProject\AddPlugInProject.Build.cs">
+      <Filter>Source\AddPlugInProject</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\AddPlugInProject\AddPlugInProject.cpp">
+      <Filter>Source\AddPlugInProject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\AddPlugInProject\AddPlugInProject.h">
+      <Filter>Source\AddPlugInProject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\AddPlugInProject\CB_GameInstance.cpp">
+      <Filter>Source\AddPlugInProject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\AddPlugInProject\CB_GameInstance.h">
+      <Filter>Source\AddPlugInProject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\AddPlugInProject\CB_PlayerController.cpp">
+      <Filter>Source\AddPlugInProject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\AddPlugInProject\CB_PlayerController.h">
+      <Filter>Source\AddPlugInProject</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

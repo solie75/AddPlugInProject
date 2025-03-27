@@ -1,0 +1,7 @@
+{
+	"OutputFiles": [
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\ManageUserNamePlugIn\\Module.ManageUserNamePlugIn.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\ManageUserNamePlugIn\\ManageUserNamePlugIn.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\ManageUserNamePlugIn\\ManageUserNamePlugInBPLibrary.cpp.obj"
+	]
+}

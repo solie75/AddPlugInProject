@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Unreal_Project/AddPlugInProject/AddPlugInProject/Content/Input/IMC_Default.uasset",
+				"C:/Unreal_Project/AddPlugInProject/AddPlugInProject/Content/Input/IA_ChangeLevel.uasset",
+				"C:/Unreal_Project/AddPlugInProject/AddPlugInProject/Content/Level_1.umap",
+				"C:/Unreal_Project/AddPlugInProject/AddPlugInProject/Content/Level_2.umap",
+				"C:/Unreal_Project/AddPlugInProject/AddPlugInProject/Content/BasicLevel.umap",
+				"C:/Unreal_Project/AddPlugInProject/AddPlugInProject/Content/Level/Level_2.umap",
+				"C:/Unreal_Project/AddPlugInProject/AddPlugInProject/Content/Level/Level_1.umap",
+				"C:/Unreal_Project/AddPlugInProject/AddPlugInProject/Content/Level/BasicLevel.umap",
+				"C:/Unreal_Project/AddPlugInProject/AddPlugInProject/Content/Widget/WBP_UserName.uasset",
+				"C:/Unreal_Project/AddPlugInProject/AddPlugInProject/Content/Input/IA_PrintUserName.uasset",
+				"C:/Unreal_Project/AddPlugInProject/AddPlugInProject/Content/BP/BP_GameInstance.uasset",
+				"C:/Unreal_Project/AddPlugInProject/AddPlugInProject/Content/BP/BP_PlayerController.uasset",
+				"C:/Unreal_Project/AddPlugInProject/AddPlugInProject/Content/BP/BP_GameMode.uasset"
+			]
+		}
+	]
+}

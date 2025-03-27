@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unreal_project\\addpluginproject\\addpluginproject\\source\\addpluginproject\\addpluginproject.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unreal_project\\addpluginproject\\addpluginproject\\intermediate\\build\\win64\\x64\\addpluginprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\unreal_project\\addpluginproject\\addpluginproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\addpluginproject\\definitions.addpluginproject.h",
+            "c:\\unreal_project\\addpluginproject\\addpluginproject\\source\\addpluginproject\\addpluginproject.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
