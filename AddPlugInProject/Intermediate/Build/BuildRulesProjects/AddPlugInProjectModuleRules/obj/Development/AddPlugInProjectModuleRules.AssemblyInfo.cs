@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AddPlugInProjectModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e77a2fe4f15e5cdfd74cd55be4d2a295ae9b5d15")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d32684cd9d7be851d25e80d6bbc317c593f42e8c")]
 [assembly: System.Reflection.AssemblyProductAttribute("AddPlugInProjectModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AddPlugInProjectModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
